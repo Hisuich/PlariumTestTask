@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 825a0656e6140fd40b19d831f35dca17, type: 3}
+  m_Name: MediumBody
+  m_EditorClassIdentifier: 
+  playerSprite: {fileID: 21300000, guid: 0ac446ab028ac464d80e25a12d2557e4, type: 3}
+  enemySprite: {fileID: 21300000, guid: a5d2f9b498f95b447b8ed194db4bd326, type: 3}
+  durability: 4
+  speed: 3

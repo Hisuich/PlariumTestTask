@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d396a45c9d4c300488c129bfb8c494d0, type: 3}
+  m_Name: PowerGun3
+  m_EditorClassIdentifier: 
+  playerSprite: {fileID: 21300000, guid: f177d45d392c7c241a2728f97f96604e, type: 3}
+  enemySprite: {fileID: 21300000, guid: 93aacf73c78db3444a0af7d99749e44e, type: 3}
+  bullet: {fileID: 8098794524569212689, guid: 15cc0a658e5f0bd4a9e94a1227b66e06, type: 3}
+  damage: 6
+  range: 8
+  cooldown: 1.5
+  bulletCount: 1
